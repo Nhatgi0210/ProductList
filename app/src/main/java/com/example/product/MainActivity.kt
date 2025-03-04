@@ -290,9 +290,7 @@ fun ProductDetail(name: String,image:String,detail:String,author:String,time: St
                 )
 
             }
-            Text(
 
-            )
         }
     }
 }
